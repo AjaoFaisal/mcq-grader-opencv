@@ -19,7 +19,7 @@ A Python project that automatically grades multiple-choice question (MCQ) sheets
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/mcq-grader-opencv.git
+git clone https://github.com/AjaoFaisal/mcq-grader-opencv.git
 cd mcq-grader-opencv
 
 # Create a virtual environment (optional but recommended)
