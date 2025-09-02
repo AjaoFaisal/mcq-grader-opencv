@@ -1,10 +1,10 @@
-# 📝 MCQ Grader OpenCV
+# MCQ Grader OpenCV
 
 A Python project that automatically grades multiple-choice question (MCQ) sheets using **OpenCV**. It detects marked answers from images or webcam input and calculates the score in real-time.
 
 ---
 
-## 🚀 Features
+## Features
 - Detects rectangular MCQ sheets and answer areas.
 - Automatically identifies shaded (selected) answers.
 - Compares detected answers against a predefined answer key.
@@ -15,7 +15,7 @@ A Python project that automatically grades multiple-choice question (MCQ) sheets
 
 ---
 
-## 📦 Installation
+## Installation
 
 ```bash
 # Clone the repository
@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Usage
+## Usage
 
 ```bash
 # Run the grader
@@ -50,13 +50,13 @@ python main.py
 
 ---
 
-## 📊 Output Example (Video)
+## Output Example (Video)
 
 [![Watch the output](https://img.youtube.com/vi/M3m-BqSMv9I/hqdefault.jpg)](https://youtu.be/M3m-BqSMv9I?feature=shared)
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 mcq-grader-opencv/
@@ -72,14 +72,14 @@ mcq-grader-opencv/
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 - **Python 3.11.5**
 - **OpenCV**
 - **NumPy**
 
 ---
 
-## 📜 License
+## License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
 ---
